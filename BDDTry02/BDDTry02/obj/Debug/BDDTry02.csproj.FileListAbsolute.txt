@@ -1,0 +1,4 @@
+E:\Learning\BDD\BDDTry02\BDDTry02\bin\Debug\BDDTry02.exe.config
+E:\Learning\BDD\BDDTry02\BDDTry02\obj\Debug\BDDTry02.csprojResolveAssemblyReference.cache
+D:\Learning\BDD\BDDTry02\BDDTry02\bin\Debug\BDDTry02.exe.config
+D:\Learning\BDD\BDDTry02\BDDTry02\obj\Debug\BDDTry02.csprojResolveAssemblyReference.cache

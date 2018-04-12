@@ -1,0 +1,52 @@
+﻿Discovering target: Default
+Discovering tests from assembly: E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\BDDDemo02.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BDDDemo02/Default - 
+#1: Default - 
+#2: BDDDemo02 - 
+#3: Answers - 
+#4: Add two numbers - TestAssembly:BDDDemo02/Feature:Answers/Scenario:Add+two+numbers
+#5: Add three numbers - TestAssembly:BDDDemo02/Feature:Answers/Scenario:Add+three+numbers
+End: Test Suite Dump -- X
+Scheduler: considering #4 for thread #0
+Scheduler: using #4 for thread #0
+Test #4 is scheduled for thread #0
+Thread #0: creating new test thread executor for BDDDemo02, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\clydegao\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.3.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Test #4/0 is started on thread #0
+B:Given I have entered 50 into the calculator
+T:pending: AnswersSteps.GivenIHaveEnteredIntoTheCalculator(50)
+B:And I have entered 70 into the calculator
+T:skipped because of previous errors
+B:When I press add
+T:skipped because of previous errors
+B:Then the result should be 120 on the screen
+T:skipped because of previous errors
+T:Pending: One or more step definitions are not implemented yet.
+T:  AnswersSteps.GivenIHaveEnteredIntoTheCalculator(50)
+Scheduler: considering #5 for thread #0
+Scheduler: using #5 for thread #0
+Test #5 is scheduled for thread #0
+Test #4 is finished on thread #0 as Pending within 0.2460246 seconds
+Test #5/0 is started on thread #0
+B:Given I have entered 50 into the calculator
+T:pending: AnswersSteps.GivenIHaveEnteredIntoTheCalculator(50)
+B:And I have entered 70 into the calculator
+T:skipped because of previous errors
+B:And I have entered 10 into the calculator
+T:skipped because of previous errors
+B:When I press add
+T:skipped because of previous errors
+B:Then the result should be 130 on the screen
+T:skipped because of previous errors
+T:Pending: One or more step definitions are not implemented yet.
+T:  AnswersSteps.GivenIHaveEnteredIntoTheCalculator(50)
+Test #5 is finished on thread #0 as Pending within 0.0170017 seconds
+Appdomain Disposed
+Total: 2
+Succeeded: 0
+Ignored: 0
+Pending: 2
+Skipped: 0
+Failed: 0

@@ -1,0 +1,11 @@
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\bin\Debug\myBDDDemo01.exe.config
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\bin\Debug\myBDDDemo01.exe
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\bin\Debug\myBDDDemo01.pdb
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\bin\Debug\nunit.framework.dll
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\bin\Debug\TechTalk.SpecFlow.dll
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\bin\Debug\nunit.framework.xml
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\obj\Debug\myBDDDemo01.csprojResolveAssemblyReference.cache
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\obj\Debug\myBDDDemo01.Properties.Resources.resources
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\obj\Debug\myBDDDemo01.csproj.GenerateResource.Cache
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\obj\Debug\myBDDDemo01.exe
+E:\Learning\BDD\myBDDDemo01\myBDDDemo01\obj\Debug\myBDDDemo01.pdb

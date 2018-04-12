@@ -1,0 +1,9 @@
+E:\Learning\BDD\BDD\BDD\bin\Debug\BDD.exe.config
+E:\Learning\BDD\BDD\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
+E:\Learning\BDD\BDD\BDD\bin\Debug\BDD.exe
+E:\Learning\BDD\BDD\BDD\bin\Debug\BDD.pdb
+E:\Learning\BDD\BDD\BDD\bin\Debug\nunit.framework.dll
+E:\Learning\BDD\BDD\BDD\bin\Debug\TechTalk.SpecFlow.dll
+E:\Learning\BDD\BDD\BDD\bin\Debug\nunit.framework.xml
+E:\Learning\BDD\BDD\BDD\obj\Debug\BDD.exe
+E:\Learning\BDD\BDD\BDD\obj\Debug\BDD.pdb

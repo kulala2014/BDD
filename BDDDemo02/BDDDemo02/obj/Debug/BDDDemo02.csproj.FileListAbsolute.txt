@@ -1,0 +1,11 @@
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\Default.srprofile
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\BDDDemo02.dll.config
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\BDDDemo02.dll
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\BDDDemo02.pdb
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\SpecRun.SpecFlowPlugin.dll
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\TechTalk.SpecFlow.dll
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\TechTalk.SpecRun.dll
+E:\Learning\BDD\BDDDemo02\BDDDemo02\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+E:\Learning\BDD\BDDDemo02\BDDDemo02\obj\Debug\BDDDemo02.csprojResolveAssemblyReference.cache
+E:\Learning\BDD\BDDDemo02\BDDDemo02\obj\Debug\BDDDemo02.dll
+E:\Learning\BDD\BDDDemo02\BDDDemo02\obj\Debug\BDDDemo02.pdb
